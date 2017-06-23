@@ -1,0 +1,12 @@
+*{padding: 0;margin: 0;text-decoration:none;font-family: arial, 'Hiragino Sans GB', 'Microsoft Yahei', 微软雅黑, 宋体, Tahoma, Arial, Helvetica, STHeiti;}
+.Culture{margin:0 auto;width:1000px;}
+.hr{margin-left:50%;}
+.Culture .left{width:607px;margin-top:64px;float:left}
+.cultur{padding-top:40px;}
+.cultur a{color:#484848;}
+.right{width:282px;float: left;margin-top:64px;margin-left:51px;}
+.right span h2{font-size: 18px;color:#006D5D}
+.right span a{font-size: 14px;color:#484848;margin-top:18px;}
+.right p{padding-top:74px;}
+.right p h2{font-size: 18px;color:#006D5D}
+.right p a{font-size: 14px;color:#484848;margin-top:18px;}
